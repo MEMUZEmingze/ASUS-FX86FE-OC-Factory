@@ -8,3 +8,9 @@
 
 #2021/1/31
 我回来更新啦
+
+！注意！
+该EFI需要解锁CFG后使用！
+否则会造成卡Logo进不去系统！！！
+https://www.bilibili.com/video/BV1ka4y1x7Z2
+解锁教程
